@@ -8,7 +8,7 @@ Replace the Project Title
 Describe what your project is about and what it does
 
 ### Files used
-Include the files used
+Python, readme and/or related info.
 
 ### Credits
 By Fahad Alsayyali
