@@ -5,7 +5,7 @@
 Bikeshare Datasets
 
 ### Description
-Describe what your project is about and what it does
+Manipulating data using python
 
 ### Files used
 Python, readme and/or related info.
