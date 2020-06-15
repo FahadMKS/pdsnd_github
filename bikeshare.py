@@ -1,3 +1,4 @@
+
 import time
 import pandas as pd
 import numpy as np
@@ -209,7 +210,7 @@ def main():
         trip_duration_stats(df)
         user_stats(df)
 
-        answer = input("Do you want to see raw data? (y/n): ")
+        answer = input("Do you want to see raw data? (y): ")
         if answer == "y":
             print(df.head())
         
